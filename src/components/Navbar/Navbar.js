@@ -25,6 +25,18 @@ function Navbar() {
           </div>
           <div>
             <Link
+              to="/courses"
+              style={{
+                color: "black",
+                textDecoration: "none",
+                fontWeight: "bold",
+              }}
+            >
+              Courses
+            </Link>
+          </div>
+          <div>
+            <Link
               to="/about"
               style={{
                 color: "black",

@@ -1,0 +1,14 @@
+/* .course-container {
+  width: 100vw;
+} */
+.course-data {
+  /* display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10vw; */
+  display: flex;
+  margin: 50px;
+  padding: 50px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
